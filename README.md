@@ -1,2 +1,2 @@
 # Fake-virus-Prank
-This is a simple Fake virus pranker
+This is a Fake Virus Pranker, developed by HEMANTH N. Bluescreen.dat simulates the bluescreen of death in a system. EA cricket Installer.vbs simulates hacking a computer and endless EA cricket Installer keeps on looping while simulating the hacking process. CAUTION : Do not run the application without sound knowledge of how to close the application without harming the files in computer.
